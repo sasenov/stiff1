@@ -1,2 +1,1 @@
-# stiff1
-facebook
+Configurations/FacebookLogin.xcconfig
